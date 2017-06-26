@@ -1,3 +1,5 @@
+#change dir_path to where you have downloaded the .htm files; remember that Windows uses back slashes and Macs use forward slashes
+
 import glob
 import os.path
 from bs4 import BeautifulSoup
